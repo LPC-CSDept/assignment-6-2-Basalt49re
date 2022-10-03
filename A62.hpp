@@ -7,7 +7,7 @@ void printout(int);
 
 int main ()
 {
-  
+
   int input,result;
 
   cout << "Enter input" << endl;
@@ -48,7 +48,7 @@ double nthpowern(int n)
   int power = n;
   for(int i = 0; i < abs(power); ++i)
   {
-    cout << power << endl;
+    
     result *= .5;
   }
   double invertedpower = 1.0/result;
