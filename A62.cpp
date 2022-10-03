@@ -5,7 +5,7 @@ double nthpowerp(int);
 double nthpowern(int);
 void printout(int);
 
-int main ()
+int main()
 {
 
   int input,result;
