@@ -28,7 +28,7 @@ int main ()
   }
 
   printout(result);
-
+  return(0);
 
 }
 
