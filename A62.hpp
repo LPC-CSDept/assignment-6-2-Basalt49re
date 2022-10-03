@@ -7,7 +7,7 @@ void printout(int);
 
 int main ()
 {
-
+  
   int input,result;
 
   cout << "Enter input" << endl;
