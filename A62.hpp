@@ -1,6 +1,5 @@
 #include <iomanip>
 #include <iostream>
-#include namespace std;
 using namespace std;
 
 double nthpowerp(int power)
