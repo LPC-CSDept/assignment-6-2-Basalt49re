@@ -1,3 +1,7 @@
+#include <iomanip>
+#include namespace std;
+using namespace std;
+
 double nthpowerp(int power)
 {
   int result = 1;
