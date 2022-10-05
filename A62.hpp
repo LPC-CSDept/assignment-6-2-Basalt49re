@@ -21,8 +21,7 @@ double nthpowern(int n)
     cout << power << endl;
     result *= .5;
   }
-  double invertedpower = 1.0/result;
-  return invertedpower;
+ 
 }
 
 void printout(int result)
